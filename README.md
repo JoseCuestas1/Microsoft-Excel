@@ -6,3 +6,5 @@ Este conjunto de datos muestra las venta de una tienda, productos vendidos, fech
 
 ## Objetivo
 Transformar y vizualizar los datos
+
+![UCOL](https://github.com/user-attachments/assets/e71dd76f-fe88-48d0-8731-4c49fb93298c)
